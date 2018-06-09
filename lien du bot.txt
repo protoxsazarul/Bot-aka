@@ -1,0 +1,3 @@
+https://discordapp.com/oauth2/authorize?client_id=454688191287656449&scope=bot&permissions=2146958591
+
+message quand un membre du discord changer de role vers bdo 
